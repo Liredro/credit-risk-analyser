@@ -1,0 +1,11 @@
+loan_id,loan_type,balance,days_past_due,defaulted
+1,Personal,12000,0,0
+2,Auto,25000,15,0
+3,Personal,8000,90,1
+4,Mortgage,180000,0,0
+5,Auto,15000,60,1
+6,Personal,5000,30,0
+7,Mortgage,220000,0,0
+8,Personal,11000,0,0
+9,Auto,19000,45,0
+10,Personal,7000,120,1
